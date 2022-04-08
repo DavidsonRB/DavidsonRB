@@ -14,8 +14,6 @@
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
           
-    <i class="devicon-"></i>
-          
   <!-- <img align="right" alt="nomeaqui" height="150" style="border-radius:50px;" src=" "> -->
 </div>
 
