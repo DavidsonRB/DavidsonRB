@@ -7,7 +7,7 @@
   <a href="https://github.com/DavidsonRB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidsonRB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsonRB&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidsonRB&layout=compact&theme=dark&langs_count=8"/>
+  <img height="185px" width="490px" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidsonRB&layout=compact&theme=dracula&langs_count=8"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
