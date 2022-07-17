@@ -1,7 +1,7 @@
 ### Ola, eu sou Davidson Rodrigues,
 
 - 🔭 Hoje estou buscando oportunidade no mercado de trabalho.
-- 🌱 Estudando HTML, CSS, PHP e JAVASCRIPT
+- 🌱 HTML, CSS, PHP e JAVASCRIPT
 
 <div>
   <a href="https://github.com/DavidsonRB">
