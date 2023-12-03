@@ -1,7 +1,7 @@
 ### Ola, eu sou Davidson Rodrigues,
 
 - 🔭 Hoje estou buscando oportunidade no mercado de trabalho.
-- 🌱 HTML, CSS, PHP e JAVASCRIPT
+- 🌱 HTML, CSS, Bootstrap, TailwindCss, PHP, Java, JAVASCRIPT, Tipescrypt, React, Angular.
 
 <div>
   <a href="https://github.com/DavidsonRB">
