@@ -5,8 +5,14 @@
 
 ### Ola, eu sou Davidson Rodrigues,
 
-Bem-vindo ao meu portfólio de desenvolvedor Full-stack! Aqui você encontrará projetos que desenvolvi, abrangendo back-end, front-end, banco de dados e muito mais. Meu foco é criar soluções eficientes e de alta qualidade.
+Bem-vindo ao meu portfólio de desenvolvedor Full-stack! Aqui você encontrará projetos que desenvolvi, abrangendo back-end, front-end, banco de dados e muito mais. Meu foco é criar soluções eficientes e de alta qualidade. 
 
+<div>
+  <a href="https://github.com/DavidsonRB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidsonRB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsonRB&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
 ---
 
 ## 🚀 **Sobre Mim**
@@ -60,7 +66,6 @@ Aqui estão alguns projetos em que trabalhei:
 - **[Piano](https://davidsonrb.github.io/Projetos-JS/Piano/):**
 - **[Pizzaria](https://davidsonrb.github.io/Projetos-JS/Pizzaria/):**
 
-
 --- 
 
 ## 📫 **Contato**
@@ -77,3 +82,5 @@ Fique à vontade para entrar em contato comigo!
 ---
 
 **Obrigado por visitar meu repositório!** 🚀
+
+--- 
