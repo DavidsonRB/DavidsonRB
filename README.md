@@ -1,4 +1,4 @@
-# 💻 Full-stack Developer Portfolio
+# 💻 Full-stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidson-rodrigues-bbb608190)](https://www.linkedin.com/in/davidson-rodrigues-bbb608190)
 [![GitHub](https://img.shields.io/github/followers/DavidsonRB?label=Follow&style=social)](https://github.com/DavidsonRB)
