@@ -57,9 +57,9 @@ Estou sempre evoluindo e aprendendo novas tecnologias. Atualmente, estou estudan
 
 Aqui estão alguns projetos em que trabalhei:
 
-- **[Projeto 1](https://github.com/seu-usuario/projeto1):** Breve descrição do projeto 1.
-- **[Projeto 2](https://github.com/seu-usuario/projeto2):** Breve descrição do projeto 2.
-- **[Projeto 3](https://github.com/seu-usuario/projeto3):** Breve descrição do projeto 3.
+- **[Piano](https://davidsonrb.github.io/Projetos-JS/Piano/):**
+- **[Pizzaria](https://davidsonrb.github.io/Projetos-JS/Pizzaria/):**
+
 
 --- 
 
