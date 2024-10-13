@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidson-rodrigues-bbb608190)](https://www.linkedin.com/in/davidson-rodrigues-bbb608190)
 [![GitHub](https://img.shields.io/github/followers/DavidsonRB?label=Follow&style=social)](https://github.com/DavidsonRB)
 
-### Ola, eu sou Davidson Rodrigues,
+### Hi, I am Davidson Rodrigues,
 
-Bem-vindo ao meu portfólio de desenvolvedor Full-stack! Aqui você encontrará projetos que desenvolvi, abrangendo back-end, front-end, banco de dados e muito mais. Meu foco é criar soluções eficientes e de alta qualidade. 
+Welcome to my Full-stack developer portfolio! Here you will find projects I've developed, covering back-end, front-end, databases, and much more.
 
 <div>
   <a href="https://github.com/DavidsonRB">
@@ -15,16 +15,16 @@ Bem-vindo ao meu portfólio de desenvolvedor Full-stack! Aqui você encontrará 
     
 ---
 
-## 🚀 **Sobre Mim**
+## 🚀 **About Me**
 
-🎓 **Formado em Ciência da Computação**  
-💼 **Desenvolvedor Full-stack** | Back-end | Front-end  
+🎓 **Computer Science Graduate**  
+💼 **Full-stack Developer** | Back-end | Front-end  
 
-Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para construir aplicações que impactam positivamente. Sou apaixonado por lógica de programação e boas práticas de desenvolvimento.
+Always eager to learn new technologies and improve my skills to build applications that make a positive impact. I am passionate about programming logic and best development practices.
 
 ---
 
-## 🔧 **Tecnologias que uso**
+## 🔧 **Technologies I Use**
 
 ### Back-end
 - ![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat-square&logo=delphi)
@@ -39,7 +39,7 @@ Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Banco de Dados
+### Database
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Extras
@@ -49,9 +49,9 @@ Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para
 
 ---
 
-## 📚 **Estudos Atuais**
+## 📚 **Current Studies**
 
-Estou sempre evoluindo e aprendendo novas tecnologias. Atualmente, estou estudando:
+I am always evolving and learning new technologies. Currently, I am studying:
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
@@ -59,18 +59,18 @@ Estou sempre evoluindo e aprendendo novas tecnologias. Atualmente, estou estudan
 
 ---
 
-## 📂 **Projetos**
+## 📂 **Projects**
 
-Aqui estão alguns projetos em que trabalhei:
+Here are some projects I've worked on:
 
 - **[Piano](https://davidsonrb.github.io/Projetos-JS/Piano/):**
 - **[Pizzaria](https://davidsonrb.github.io/Projetos-JS/Pizzaria/):**
 
 --- 
 
-## 📫 **Contato**
+## 📫 **Contact**
 
-Fique à vontade para entrar em contato comigo!
+Feel free to get in touch with me!
 
 <div> 
 <a href = "mailto:davidson.rb100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -81,6 +81,6 @@ Fique à vontade para entrar em contato comigo!
 
 ---
 
-**Obrigado por visitar meu repositório!** 🚀
+**Thank you for visiting my portfolio! ** 🚀
 
 --- 
